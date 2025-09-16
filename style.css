@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .item{
     width: 200px;
     height: 250px;
@@ -55,4 +56,52 @@
     border-radius: 15px;
     box-shadow: 13px;
     display: flex;
+=======
+.content{
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.box{
+    width: 200px;
+    height: 250px;
+    border-radius: 10px;
+    background-color: blue;
+    box-shadow: 10px 10px 10px black;
+}
+.box1{
+    width: 200px;
+    height: 250px;
+    border-radius: 10px;
+    background-color: red;
+    box-shadow: 10px 10px 10px black;
+}
+.box2{
+    width: 200px;
+    height: 250px;
+    border-radius: 10px;
+    background-color: violet;
+    box-shadow: 10px 10px 10px black;
+}
+.box3{
+    width: 200px;
+    height: 250px;
+    border-radius: 10px;
+    background-color: green;
+    box-shadow: 10px 10px 10px black;
+}
+.box4{
+    width: 200px;
+    height: 250px;
+    border-radius: 10px;
+    background-color: gold;
+    box-shadow: 10px 10px 10px black;
+}
+
+.box:hover{
+    transform: rotateY(1.2);
+>>>>>>> 072f3e9 (added box)
 }
