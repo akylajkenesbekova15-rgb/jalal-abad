@@ -1,0 +1,58 @@
+.item{
+    width: 200px;
+    height: 250px;
+    background-color: brown;
+    border-radius: 15px;
+    box-shadow: 13px;
+    display: flex;
+    
+}
+
+
+.container{
+    width: 2000px;
+    height: 150px;
+    background-color: brown;
+    border-radius: 15px;
+    box-shadow: 13px;
+    display: flex;
+    
+}
+
+
+.container1{
+    width: 250px;
+    height: 300px;
+    background-color: red;
+    border-radius: 15px;
+    box-shadow: 13px;
+    display: flex;
+}
+
+
+.container2{
+    width: 350px;
+    height: 450px;
+    background-color: blue;
+    border-radius: 15px;
+    box-shadow: 13px;
+    display: flex;
+}
+
+.container3{
+    width: 350px;
+    height: 450px;
+    background-color: aqua;
+    border-radius: 15px;
+    box-shadow: 13px;
+    display: flex;
+}
+
+.container4{
+    width: 350px;
+    height: 450px;
+    background-color: violet;
+    border-radius: 15px;
+    box-shadow: 13px;
+    display: flex;
+}
