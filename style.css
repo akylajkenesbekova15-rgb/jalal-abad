@@ -335,23 +335,21 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f5f5f5;
     /* display: flex; */
-
     font-family: Arial, sans-serif;
     background-color: #f5f5f5;
-    display: flex;
     justify-content: center;
     padding: 50px;
 }
 
 .all-products {
-    display: flex;
+    /* display: flex; */
     gap: 20px;
     flex-wrap: wrap;
     display: flex;
-    /* Горизонталдуу жайгаштыруу */
+   
     gap: 20px;
     flex-wrap: wrap;
-    /* Экранга сыйбаса төмөнгө түшөт */
+    
 }
 
 .card {
